@@ -1,60 +1,72 @@
-<!DOCTYPE html>
-<document>
-    <head></head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <!-- <script src="https://code.highcharts.com/highcharts.js"></script> -->
-        <!-- <script src="https://code.highcharts.com/stock/modules/exporting.js"></script> -->
-        <!-- <script src="https://code.highcharts.com/stock/highstock.js"></script> -->
-        <script src="https://code.highcharts.com/maps/highmaps.js"></script> -->
-        <script src="https://code.highcharts.com/maps/modules/data.js"></script>
-        <script src="https://code.highcharts.com/maps/modules/data.js"></script>
-        <script src="https://code.highcharts.com/mapdata/custom/world.js"></script>
-        
+<html>
+    <head>
 
-        <table>
-            <tr>
+            <script src="https://code.highcharts.com/stock/highstock.js"></script>
+            <script src="https://code.highcharts.com/maps/modules/map.js"></script>
+            <script src="https://code.highcharts.com/stock/modules/data.js"></script>
+            <script src="https://code.highcharts.com/stock/modules/drag-panes.js"></script>
+            <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-                <td>
-                    <h1 id ='top'>Should TP buy Cybertruck?</h1>
-                </td>
+            <script src="https://code.highcharts.com/maps/highmaps.js"></script> 
+            <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+            <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+            <script src="https://code.highcharts.com/mapdata/custom/world.js"></script>
+            <link rel="stylesheet", href="main.css">
+            
+            
+            <table>
 
-            </tr>
-        </table>
+                    <tr>
+                        <td>
+                            <img src="assets/Tesla-Logo-Transparent-Background.png" alt="Tesls Logo" class="pageLogo"/>
+                        </td>
+                        <td>
+                            <h1><pre> </pre></h1>
+                        </td>
+                        <td>
+                            <h1 id ='top'>Tesla</h1>
+                        </td>
 
-    <body>
-        <div id="fullTable">
-            <table border = 0 class="canvas">
-                <tr>
-                    <td class="table_body" rowspan="1">
-                        <table id="DashboardChartElem" class="content">
-                            <tr style="height: 25%;">
-                                <td id="stock_price" class="chart"></td>
-                                <td><h1><pre> </pre></h1></td>
-                                <td><h1><pre> </pre></h1></td>
-                                <td >
-                                        <img src="data/TP_cybertruck.png" /> 
-                                </td>
-                            </tr>
-                            <tr style="height: 25%;">
-                                <td id="volume" class="chart"></td>
-                            </tr>
-                            <tr>
-                                
-
-                            
-                            </tr>
-
-                        </table>
-                    </td>
-                </tr>
-                    
-                    
+                        <td>
+                            <h1 id = 'top'>Motors</h1>
+                        </td>
+                    </tr>
                 
             </table>
-        </div>
+        
+            
+    </head>
 
-        <script src="dashboard.js"></script>
-        <script src="db.js"></script>
+    <body>
+
+                <div id="fullTable">
+                        <table border = 0 class="canvas">
+            
+                            <tr>
+                                    <table id="ChartSpace" class="content">
+            
+                                        <tr >
+                                            <td id="container" class="chart" style="width: 1150px;"></td>
+                                            <td id="presale" class="chart" style="width: 480px;"></td>
+                                        </tr>
+                                    </table>
+                                    <table>
+                                        <tr >
+                                            <td id='container2' class = 'chart' style = 'width: 600px;'></td>
+                                            <td id='choropleth' class = 'chart' style = 'width: 1030px;'></td>
+                                        </tr>
+                                    </table>
+
+                                
+                            </tr>
+                        </table>
+                </div>
 
     </body>
-</document>
+
+    <script src = 'main.js'></script>
+    <script src = 'chart2.js'></script>
+    <script src = 'choropleth.js'></script>
+    <script src = 'presale.js'></script>
+</html>

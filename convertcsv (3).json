@@ -1,0 +1,722 @@
+[
+ {
+   "FIELD1": 0,
+   "Day": 1567728000000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 1,
+   "Day": 1567814400000,
+   "Tesla": 9,
+   "Ford": 67,
+   "Chevrolet": 35,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 2,
+   "Day": 1567900800000,
+   "Tesla": 10,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 3,
+   "Day": 1567987200000,
+   "Tesla": 9,
+   "Ford": 66,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 4,
+   "Day": 1568073600000,
+   "Tesla": 9,
+   "Ford": 66,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 5,
+   "Day": 1568160000000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 6,
+   "Day": 1568246400000,
+   "Tesla": 9,
+   "Ford": 66,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 7,
+   "Day": 1568332800000,
+   "Tesla": 9,
+   "Ford": 67,
+   "Chevrolet": 35,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 8,
+   "Day": 1568419200000,
+   "Tesla": 10,
+   "Ford": 68,
+   "Chevrolet": 35,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 9,
+   "Day": 1568505600000,
+   "Tesla": 10,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 10,
+   "Day": 1568592000000,
+   "Tesla": 9,
+   "Ford": 67,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 11,
+   "Day": 1568678400000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 12,
+   "Day": 1568764800000,
+   "Tesla": 10,
+   "Ford": 64,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 13,
+   "Day": 1568851200000,
+   "Tesla": 10,
+   "Ford": 65,
+   "Chevrolet": 32,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 14,
+   "Day": 1568937600000,
+   "Tesla": 10,
+   "Ford": 66,
+   "Chevrolet": 35,
+   "Rivian": 2
+ },
+ {
+   "FIELD1": 15,
+   "Day": 1569024000000,
+   "Tesla": 10,
+   "Ford": 66,
+   "Chevrolet": 35,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 16,
+   "Day": 1569110400000,
+   "Tesla": 10,
+   "Ford": 62,
+   "Chevrolet": 33,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 17,
+   "Day": 1569196800000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 18,
+   "Day": 1569283200000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 19,
+   "Day": 1569369600000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 20,
+   "Day": 1569456000000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 21,
+   "Day": 1569542400000,
+   "Tesla": 11,
+   "Ford": 66,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 22,
+   "Day": 1569628800000,
+   "Tesla": 11,
+   "Ford": 67,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 23,
+   "Day": 1569715200000,
+   "Tesla": 11,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 24,
+   "Day": 1569801600000,
+   "Tesla": 11,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 25,
+   "Day": 1569888000000,
+   "Tesla": 10,
+   "Ford": 63,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 26,
+   "Day": 1569974400000,
+   "Tesla": 10,
+   "Ford": 63,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 27,
+   "Day": 1570060800000,
+   "Tesla": 11,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 28,
+   "Day": 1570147200000,
+   "Tesla": 10,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 29,
+   "Day": 1570233600000,
+   "Tesla": 10,
+   "Ford": 67,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 30,
+   "Day": 1570320000000,
+   "Tesla": 10,
+   "Ford": 62,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 31,
+   "Day": 1570406400000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 32,
+   "Day": 1570492800000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 33,
+   "Day": 1570579200000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 34,
+   "Day": 1570665600000,
+   "Tesla": 9,
+   "Ford": 63,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 35,
+   "Day": 1570752000000,
+   "Tesla": 10,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 36,
+   "Day": 1570838400000,
+   "Tesla": 10,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 37,
+   "Day": 1570924800000,
+   "Tesla": 10,
+   "Ford": 62,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 38,
+   "Day": 1571011200000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 39,
+   "Day": 1571097600000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 40,
+   "Day": 1571184000000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 41,
+   "Day": 1571270400000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 42,
+   "Day": 1571356800000,
+   "Tesla": 10,
+   "Ford": 65,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 43,
+   "Day": 1571443200000,
+   "Tesla": 10,
+   "Ford": 66,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 44,
+   "Day": 1571529600000,
+   "Tesla": 10,
+   "Ford": 61,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 45,
+   "Day": 1571616000000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 46,
+   "Day": 1571702400000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 47,
+   "Day": 1571788800000,
+   "Tesla": 10,
+   "Ford": 62,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 48,
+   "Day": 1571875200000,
+   "Tesla": 13,
+   "Ford": 62,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 49,
+   "Day": 1571961600000,
+   "Tesla": 11,
+   "Ford": 67,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 50,
+   "Day": 1572048000000,
+   "Tesla": 11,
+   "Ford": 66,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 51,
+   "Day": 1572134400000,
+   "Tesla": 11,
+   "Ford": 60,
+   "Chevrolet": 30,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 52,
+   "Day": 1572220800000,
+   "Tesla": 10,
+   "Ford": 66,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 53,
+   "Day": 1572307200000,
+   "Tesla": 9,
+   "Ford": 66,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 54,
+   "Day": 1572393600000,
+   "Tesla": 9,
+   "Ford": 63,
+   "Chevrolet": 30,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 55,
+   "Day": 1572480000000,
+   "Tesla": 9,
+   "Ford": 63,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 56,
+   "Day": 1572566400000,
+   "Tesla": 9,
+   "Ford": 67,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 57,
+   "Day": 1572652800000,
+   "Tesla": 10,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 58,
+   "Day": 1572739200000,
+   "Tesla": 9,
+   "Ford": 62,
+   "Chevrolet": 30,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 59,
+   "Day": 1572825600000,
+   "Tesla": 9,
+   "Ford": 66,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 60,
+   "Day": 1572912000000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 61,
+   "Day": 1572998400000,
+   "Tesla": 9,
+   "Ford": 62,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 62,
+   "Day": 1573084800000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 63,
+   "Day": 1573171200000,
+   "Tesla": 9,
+   "Ford": 65,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 64,
+   "Day": 1573257600000,
+   "Tesla": 10,
+   "Ford": 68,
+   "Chevrolet": 34,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 65,
+   "Day": 1573344000000,
+   "Tesla": 9,
+   "Ford": 63,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 66,
+   "Day": 1573430400000,
+   "Tesla": 9,
+   "Ford": 64,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 67,
+   "Day": 1573516800000,
+   "Tesla": 10,
+   "Ford": 66,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 68,
+   "Day": 1573603200000,
+   "Tesla": 13,
+   "Ford": 65,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 69,
+   "Day": 1573689600000,
+   "Tesla": 11,
+   "Ford": 66,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 70,
+   "Day": 1573776000000,
+   "Tesla": 10,
+   "Ford": 68,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 71,
+   "Day": 1573862400000,
+   "Tesla": 10,
+   "Ford": 74,
+   "Chevrolet": 35,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 72,
+   "Day": 1573948800000,
+   "Tesla": 10,
+   "Ford": 71,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 73,
+   "Day": 1574035200000,
+   "Tesla": 11,
+   "Ford": 78,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 74,
+   "Day": 1574121600000,
+   "Tesla": 10,
+   "Ford": 73,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 75,
+   "Day": 1574208000000,
+   "Tesla": 11,
+   "Ford": 69,
+   "Chevrolet": 32,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 76,
+   "Day": 1574294400000,
+   "Tesla": 16,
+   "Ford": 68,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 77,
+   "Day": 1574380800000,
+   "Tesla": 100,
+   "Ford": 69,
+   "Chevrolet": 34,
+   "Rivian": 4
+ },
+ {
+   "FIELD1": 78,
+   "Day": 1574467200000,
+   "Tesla": 69,
+   "Ford": 72,
+   "Chevrolet": 34,
+   "Rivian": 2
+ },
+ {
+   "FIELD1": 79,
+   "Day": 1574553600000,
+   "Tesla": 52,
+   "Ford": 68,
+   "Chevrolet": 31,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 80,
+   "Day": 1574640000000,
+   "Tesla": 43,
+   "Ford": 67,
+   "Chevrolet": 32,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 81,
+   "Day": 1574726400000,
+   "Tesla": 32,
+   "Ford": 68,
+   "Chevrolet": 32,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 82,
+   "Day": 1574812800000,
+   "Tesla": 27,
+   "Ford": 66,
+   "Chevrolet": 30,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 83,
+   "Day": 1574899200000,
+   "Tesla": 26,
+   "Ford": 58,
+   "Chevrolet": 26,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 84,
+   "Day": 1574985600000,
+   "Tesla": 21,
+   "Ford": 61,
+   "Chevrolet": 30,
+   "Rivian": 1
+ },
+ {
+   "FIELD1": 85,
+   "Day": 1575072000000,
+   "Tesla": 19,
+   "Ford": 67,
+   "Chevrolet": 33,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 86,
+   "Day": 1575158400000,
+   "Tesla": 17,
+   "Ford": 59,
+   "Chevrolet": 29,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 87,
+   "Day": 1575244800000,
+   "Tesla": 14,
+   "Ford": 61,
+   "Chevrolet": 30,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 88,
+   "Day": 1575331200000,
+   "Tesla": 13,
+   "Ford": 63,
+   "Chevrolet": 31,
+   "Rivian": 0
+ },
+ {
+   "FIELD1": 89,
+   "Day": 1575417600000,
+   "Tesla": 13,
+   "Ford": 65,
+   "Chevrolet": 31,
+   "Rivian": 0
+ }
+]

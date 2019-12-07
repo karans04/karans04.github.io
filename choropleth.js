@@ -20,14 +20,12 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
       title: {
           style: {
               color: '#E0E0E3',
-              textTransform: 'uppercase',
               fontSize: '20px'
           }
       },
       subtitle: {
           style: {
-              color: '#E0E0E3',
-              textTransform: 'uppercase'
+              color: '#E0E0E3'
           }
       },
       xAxis: {
@@ -203,7 +201,7 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
         },
 
         title: {
-            text: 'Interest in Tesla by country'
+            text: 'Interest in Tesla by Country (15 Days Post Reveal)'
         },
 
         legend: {

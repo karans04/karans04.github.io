@@ -1,0 +1,11 @@
+body{
+    background-color: #1a1a1a
+}
+.pageLogo {
+    height: 65px;
+    width: 65px;
+}
+#top {
+    color: White;
+    font-family: '\'Unica One\', sans-serif';
+}

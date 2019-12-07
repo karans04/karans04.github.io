@@ -21,7 +21,7 @@ $(document).ready(function() {
             presale_data.push([Date.parse(values[0]), parseFloat(values[1])]);
             
           };
-          console.log(presale_data);
+          
 
           // last 7 day stock volume 
           Highcharts.chart('presale', {
@@ -29,7 +29,7 @@ $(document).ready(function() {
                 type: 'line'
             },
             title: {
-                text: 'Volume of Tesla stock traded'
+                text: 'Number of Cybertrucks Presale Orders Over Time'
             },
             
             xAxis: {
@@ -49,7 +49,7 @@ $(document).ready(function() {
             yAxis: {
                 min: 0,
                 title: {
-                    text: 'TSLA stock ($)'
+                    text: 'Number of pre Orders'
                 }
             },
             plotOptions: {
