@@ -5,7 +5,7 @@ $(document).ready(function() {
   // AJAX in the data file
      $.ajax({
          type: "GET",
-         url: "https://raw.githubusercontent.com/karans04/Tesla-Dashboard/master/data/Cybertruck_preorders.csv",
+         url: "https://raw.githubusercontent.com/karans04/karans04.github.io/master/Cybertruck_preorders.csv",
          dataType: "text",
          success: function(data) {processData(data);}
          });
