@@ -1,4 +1,4 @@
-Highcharts.getJSON('https://raw.githubusercontent.com/karans04/Tesla-Dashboard/master/data/choropleth_json.json', function (data) {
+Highcharts.getJSON('https://github.com/karans04/Tesla-Dashboard/blob/master/data/choropleth_json.json', function (data) {
   console.log(data);
     // Initiate the chart
     Highcharts.mapChart('stock_price', {
