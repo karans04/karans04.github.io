@@ -24,7 +24,7 @@ $(document).ready(function() {
           console.log(presale_data);
 
           // last 7 day stock volume 
-          Highcharts.chart('volume', {
+          Highcharts.chart('presale', {
             chart: {
                 type: 'line'
             },
