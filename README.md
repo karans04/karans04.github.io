@@ -1,0 +1,2 @@
+# karans04.github.io
+Please refer to the 4 JS files to see the code for the 4 charts that were created. Additionally, refer to the index.html and main.css files to see how the layout of the dashboard was created. There is one python notebook which allowed us to convert datetime to unix time. For more additional information please refer to the submission on gradescope for the slides in our presentation in addition to our efforts and challenges we faced completing this project. 
