@@ -201,7 +201,7 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
         },
 
         title: {
-            text: 'Interest in Cybertrucl by Country (15 Days Post Reveal)'
+            text: 'Interest in Cybertruck by Country (15 Days Post Reveal)'
         },
 
         legend: {
